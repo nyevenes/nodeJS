@@ -1,1 +1,1 @@
-# nodeJS Es solo un repo de clases de escalab.
+# nodeJS Repo de actividades realizadas en clases (Escalab).
